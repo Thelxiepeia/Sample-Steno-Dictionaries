@@ -9,3 +9,11 @@ This dictionary reflects my personal writing, which reflects Realwrite/Realtime 
 The dictionary is 1,000 words from a random list of 1,000 common words I found. Some words have multiple entries because I truly write it multiple ways without hesitating on any of them. I don't know why this happens.
 
 My writing evolves all the time. I may upload new versions of this dictionary for comparison's sake!
+
+# Non-learning Dictionaries
+Dictionaries that will not help you learn much.
+
+## Elizabeth-Grace-plover-matches.json
+This dictionary is comprised of any entries in my personal dictionary that match an entry in the Plover default dictionary. This was done just because I have some stuff in my personal dictionary that I figured would not be wanted by anyone and could pose a privacy risk if shared, such as full names of attorneys.
+
+This was made possible by the Plover user I know as Rice! They made a very handy script for separating out those entries: https://github.com/RAOEUS/plover-theory-matches
