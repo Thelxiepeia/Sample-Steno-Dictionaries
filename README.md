@@ -10,8 +10,8 @@ The dictionary is 1,000 words from a random list of 1,000 common words I found. 
 
 My writing evolves all the time. I may upload new versions of this dictionary for comparison's sake!
 
-# Non-learning Dictionaries
-Dictionaries that will not help you learn much.
+# Non-Learning Dictionaries
+Dictionaries that will not help you learn much. They are full of correct entries, but they are also full of misstrokes and perhaps even entries that were mistakenly added or that should not translate to what they translate to. This happens because I easily make mistakes when defining steno on the fly or when adding entries to my dictionary while scoping. Sorry!
 
 ## Elizabeth-Grace-plover-matches.json
 This dictionary is comprised of any entries in my personal dictionary that match an entry in the Plover default dictionary. This was done just because I have some stuff in my personal dictionary that I figured would not be wanted by anyone and could pose a privacy risk if shared, such as full names of attorneys.
